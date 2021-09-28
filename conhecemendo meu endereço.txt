@@ -1,0 +1,33 @@
+ipconfig/all
+
+ip privado
+192.168.0.00             CLASSE A
+
+
+
+mascara subrede
+ . . : 
+255.255.255.0             	
+
+
+publico
+
+O meu IP é:
+187.126.187.231          CLASSE B
+
+
+
+
+MAC
+
+fabricante da placa de rede
+
+
+ Endereço Físico . . . . . . . . . . . . . . : 
+adaptador ethernet
+B8-97-5A-31-C8-DF
+BIOSTAR Microtech Int'l Corp.
+
+Adaptador de Rede sem Fio Conexão Local* 1
+C4-E9-84-1B-6B-B6
+-----TP-LINK TECHNOLOGIES CO.,LTD.
