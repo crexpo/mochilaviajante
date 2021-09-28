@@ -1,7 +1,7 @@
 ipconfig/all
 
 ip privado
-192.168.0.00             CLASSE A
+192.168.0.00             CLASSE C
 
 
 
